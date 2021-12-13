@@ -5,7 +5,7 @@ let data3 = JSON.stringify(studentArray);
 let data4 = JSON.stringify(students);
 
 // 001
-console.log(data1, data2, data3, data4);
+//console.log(data1, data2, data3, data4);
 //002
 //document.write(data1, data2, data3);
 
