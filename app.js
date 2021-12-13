@@ -7,9 +7,9 @@ let data4 = JSON.stringify(students);
 // 001
 //console.log(data1, data2, data3, data4);
 //002
-//document.write(data1, data2, data3);
+document.write(data1, data2, data3);
 
-console.log(`----------divider------------`);
+console.log(`---divider---`);
 
 //003
 localStorage.setItem("developer", data1);
