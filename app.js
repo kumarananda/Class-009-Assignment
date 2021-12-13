@@ -26,7 +26,7 @@ localStorage.setItem("StudentsGPA", data4);
 // let getFromLSto1 = localStorage.getItem('developer')
 
 // console.log(JSON.parse(getFromLSto1));
-console.log(`----------divider------------`);
+// console.log(`----------divider------------`);
 
 //006 
 let getFromLSto1 = localStorage.getItem('developer');
