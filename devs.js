@@ -7,7 +7,7 @@ const newdev = [
         age     : 10,
         income  : 400,
         skill   : `Java`,
-        location    : `Mele`
+        gender    : `Mele`
     },
     {
         id      : 2,
@@ -15,7 +15,7 @@ const newdev = [
         age     : 15,
         income  : 500,
         skill   : `PHP`,
-        location    : `Mele`
+        gender    : `Mele`
     },
     {
         id      : 3,
@@ -23,7 +23,7 @@ const newdev = [
         age     : 22,
         income  : 600,
         skill   : `Wordpress`,
-        location    : `Mele`
+        gender    : `Mele`
     },
     {
         id      : 4,
@@ -31,7 +31,7 @@ const newdev = [
         age     : 19,
         income  : 800,
         skill   : `Java`,
-        location    : `Mele`
+        gender    : `Mele`
     },
     {
         id      : 5,
@@ -39,7 +39,7 @@ const newdev = [
         age     : 25,
         income  : 1000,
         skill   : `Wordpress`,
-        location    : `Femele`
+        gender    : `Femele`
     },
     {
         id      : 6,
@@ -47,7 +47,7 @@ const newdev = [
         age     : 30,
         income  : 1200,
         skill   : `Java`,
-        location    : `Femele`
+        gender    : `Femele`
     },
 ];
 
